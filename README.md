@@ -4,7 +4,6 @@ I graduated from Rutgers University with a BFA in Acting, and after spending sev
 
 - 💻 Let's talk about Python, SQL, and distributed systems. 
 - 🌱 I’m currently learning about site reliability and resilliance engineering.
-- 👯 I’m looking for work as a **junior data engineer**.
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: Otters hold hands while sleeping so as not to float away from each other. 🦦 
 
